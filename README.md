@@ -21,6 +21,8 @@
 ###
 
 <div align="center">
+  <h3>My Stacks</h3>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -37,6 +39,7 @@
 ###
 
 <div align="center">
+  <h3>Contacts</h3>
   <a href="https://api.whatsapp.com/send?phone=5586988195910" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
