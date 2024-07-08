@@ -56,6 +56,10 @@
 
 ###
 
+![](https://github-profile-trophy.vercel.app/?username=wolwerr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/YuriGit909/count.svg?"  />
 </div>
