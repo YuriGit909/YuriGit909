@@ -48,7 +48,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YuriGit909/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/github-user-contribution.svg" alt="Snake animation" />
+
 
 ###
 
