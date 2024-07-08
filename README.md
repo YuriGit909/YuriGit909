@@ -1,7 +1,4 @@
 <a href="https://github.com/YuriGit909"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
-<div align="center">
-   <a href="https://i.imgur.com/FnHj2ZQ.png"><img src="https://i.imgur.com/FnHj2ZQ.png" title="source: imgur.com" /></a>
-</div>
 
 ##
 
@@ -52,19 +49,12 @@
   <a href="https://www.linkedin.com/in/yurisbarbosa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href= "mailto:dev.yuribarbosa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=google-email&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
-  </a>
    <a href="https://api.whatsapp.com/send?phone=5586988195910" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
 ##
-
-<div align="center">
-   <img height="500em" <a href="https://imgur.com/A6uiN0R"><img src="https://i.imgur.com/A6uiN0R.gif" title="source: imgur.com" /></a>
-</div>
 
 ##
 
