@@ -1,4 +1,4 @@
-<h2 align="left">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h2>
+<h2 align="center">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h2>
 
 ###
 
