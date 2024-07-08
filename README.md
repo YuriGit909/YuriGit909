@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href= "mailto:dev.yuribarbosa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=google-gmail&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
   </a>
    <a href="https://api.whatsapp.com/send?phone=5586988195910" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
@@ -69,14 +69,14 @@
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolwerr/wolwerr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wolwerr/wolwerr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wolwerr/wolwerr/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/github-contribution-grid-snake.svg">
 </picture>
 
 ##  GitHub Trophies
      
-![](https://github-profile-trophy.vercel.app/?username=wolwerr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=YuriGit909&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ##
 
@@ -85,8 +85,8 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/wolwerr/" target="_blank"><img src="https://profile-counter.glitch.me/wolwerr/count.svg?"  />
+  <a href="https://github.com/YuriGit909/" target="_blank"><img src="https://profile-counter.glitch.me/YuriGit909/count.svg?"  />
 </div> 
  
 ##  
-<a href="https://github.com/wolwerr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
+<a href="https://github.com/YuriGit909"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
