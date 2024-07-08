@@ -81,7 +81,7 @@
 
 <img src="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/snake.svg" alt="Snake animation" />
 
-##  GitHub Trophies
+<h2 align="center">GitHub Trophies</h2>
      
 ![](https://github-profile-trophy.vercel.app/?username=YuriGit909&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
