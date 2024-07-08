@@ -27,7 +27,7 @@
     <a href="https://html.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     </a>
-    <img width="10">
+    <img width="5">
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     </a>
