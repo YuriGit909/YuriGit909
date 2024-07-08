@@ -31,24 +31,31 @@
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     </a>
+    <img width="5">
     <a href="https://www.javascript.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     </a>
+    <img width="5">
     <a href="https://nodejs.org/en/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
     </a>
+    <img width="5">
     <a href="https://www.npmjs.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
     </a>
+    <img width="5">
     <a href="https://reactjs.org/" target="_blank">   
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     </a>
+    <img width="5">
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     </a>
+    <img width="5">
     <a href="https://github.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
     </a>
+    <img width="5">
   </div>
 </div>
 
