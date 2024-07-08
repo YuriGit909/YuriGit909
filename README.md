@@ -1,5 +1,8 @@
-<a href="https://github.com/wolwerr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
-<h2 align="left">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h2>
+<a href="https://github.com/YuriGit909"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+
+###
+
+<h2 align="center">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h2>
 
 ###
 
@@ -61,4 +64,6 @@
   <img src="https://profile-counter.glitch.me/YuriGit909/count.svg?"  />
 </div>
 
-<a href="https://github.com/wolwerr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
+###
+
+<a href="https://github.com/YuriGit909"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
