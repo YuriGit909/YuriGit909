@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+##
 
 <div align="center">
   <h3>Contacts</h3>
@@ -51,7 +51,7 @@
   </a>
 </div>
 
-###
+##
 
 <img src="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/snake.svg" alt="Snake animation" />
 
