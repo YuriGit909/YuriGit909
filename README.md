@@ -1,5 +1,4 @@
 <a href="https://github.com/wolwerr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
-
 <h2 align="left">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h2>
 
 ###
