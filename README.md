@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h2>
+<h1 align="center">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h1>
 
 ###
 
