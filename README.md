@@ -16,16 +16,6 @@ My name is **Yuri Barbosa** and I'm a **Web Developer, from Brazil**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YuriGit909&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriGit909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top Languages"
-  />
-  <img
     src="https://streak-stats.demolab.com/?user=YuriGit909&theme=bear&background=000&border=30A3DC&dates=FFF"
     height="150"
     alt="GitHub Streak"
@@ -152,28 +142,6 @@ My name is **Yuri Barbosa** and I'm a **Web Developer, from Brazil**.
   <img
     src="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/snake.svg"
     alt="Snake animation"
-  />
-</p>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YuriGit909&theme=radical&no-frame=true&no-bg=false&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<br>
-
-## 👀 Profile Views
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/YuriGit909/count.svg"
-    alt="Profile Views"
   />
 </p>
 
