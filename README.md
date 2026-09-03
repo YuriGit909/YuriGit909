@@ -1,98 +1,188 @@
-<a href="https://github.com/YuriGit909"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+<a href="https://github.com/YuriGit909">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=456645"
+    alt="GitHub Header"
+  />
+</a>
 
-###
+# Hi! 👋
 
-<h1 align="center">Hi! 👋 My name is Yuri Barbosa and I'm a Web Developer, from Brazil</h1>
+My name is **Yuri Barbosa** and I'm a **Web Developer, from Brazil**.
 
-###
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriGit909&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriGit909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=YuriGit909&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats" height="150" alt="streak stats"/>  
-</div>
+## 📊 GitHub Stats
 
-##
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YuriGit909&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriGit909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="Top Languages"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=YuriGit909&theme=bear&background=000&border=30A3DC&dates=FFF"
+    height="150"
+    alt="GitHub Streak"
+  />
+</p>
 
-<div align="center">
-  <img height="500em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro"  />
-</div>
+<br>
 
-##
+<p align="center">
+  <img
+    height="500"
+    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro"
+    alt="Decorative GIF"
+  />
+</p>
 
-<div align="center">
-  <h3>My Stacks</h3>
+<br>
 
-  <div align="left">
-    <a href="https://html.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    </a>
-    <img width="5">
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    </a>
-    <img width="5">
-    <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    </a>
-    <img width="5">
-    <a href="https://nodejs.org/en/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    </a>
-    <img width="5">
-    <a href="https://www.npmjs.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-    </a>
-    <img width="5">
-    <a href="https://reactjs.org/" target="_blank">   
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    </a>
-    <img width="5">
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-    </a>
-    <img width="5">
-    <a href="https://github.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-    </a>
-    <img width="5">
-  </div>
-</div>
+## 🛠️ My Stacks
 
-##
+<p align="center">
 
-<div align="center">
-  <h3>Contacts</h3>
-
-  <div align="left">
-  <a href="https://api.whatsapp.com/send?phone=5586988195910" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  <a href="https://www.python.org/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      height="40"
+      alt="Python"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/yurisbarbosa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.mysql.com/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      height="40"
+      alt="MySQL"
+    />
   </a>
-  <a href="mailto:dev.yuribarbosa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="https://www.javascript.com/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      height="40"
+      alt="JavaScript"
+    />
   </a>
-  </div>
-</div>
+  <a href="https://react.dev/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="40"
+      alt="React"
+    />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      height="40"
+      alt="C"
+    />
+  </a>
+  <a href="https://www.java.com/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      height="40"
+      alt="Java"
+    />
+  </a>
+  <a href="https://html.com/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      height="40"
+      alt="HTML5"
+    />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      height="40"
+      alt="CSS3"
+    />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+      height="40"
+      alt="Tailwind CSS"
+    />
+  </a>
 
-##
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/snake.svg" alt="Snake animation" />
-</div>
+<br>
 
-<h2 align="center">GitHub Trophies</h2>
-     
-![](https://github-profile-trophy.vercel.app/?username=YuriGit909&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## 📫 Contacts
 
-##
+<p align="center">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YuriGit909/count.svg?"  />
-</div>
+  <a href="https://api.whatsapp.com/send?phone=5586988195910">
+    <img
+      src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
+      height="40"
+      alt="WhatsApp"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/yurisbarbosa/">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="40"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:dev.yuribarbosa@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="40"
+      alt="Gmail"
+    />
+  </a>
 
-##
+</p>
 
-<a href="https://github.com/YuriGit909"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
+<br>
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/YuriGit909/YuriGit909/output/snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YuriGit909&theme=radical&no-frame=true&no-bg=false&margin-w=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<br>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/YuriGit909/count.svg"
+    alt="Profile Views"
+  />
+</p>
+
+<br>
+
+<a href="https://github.com/YuriGit909">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=456645&reversal=true&section=footer"
+    alt="GitHub Footer"
+  />
+</a>
